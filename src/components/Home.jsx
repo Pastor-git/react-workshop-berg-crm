@@ -10,7 +10,7 @@ export const Home = () => {
       console.log("navigate back");
     };
     const windowOpener = () => {
-        window.open('https://app.bergsystem.pl/conference_confirm/?id=17&system=appdb1766&user=4b591c30fc20ac2f1a2d1b5c704edb01&view=outside');
+        window.open('https://app.bergsystem.pl/conference_confirm/?id=18&system=appdb1766&user=4b591c30fc20ac2f1a2d1b5c704edb01&view=outside');
     }
 
     return (
